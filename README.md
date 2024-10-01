@@ -59,6 +59,8 @@ This data is designed for:
 - Practicing data analysis and business intelligence techniques
 - Simulating realistic business scenarios for Tesla's EMEA operations
 
+https://public.tableau.com/app/profile/kartik.mathur4055/viz/SalesandMarketingDashboard_17278033652920/Dashboard1
+
 ## Note
 This is pseudo-data generated for educational and practice purposes. It does not represent actual Tesla sales or customer data.
 
